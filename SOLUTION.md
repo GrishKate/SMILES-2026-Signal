@@ -47,6 +47,8 @@ result = rx - pred_fc - e
 | Normalization of channels before rank-1 computation | 9.85 |
 | Alternating rank-1 subtraction and F_c computation 2 times | 9.88 |
 
+The final metric is 9.88 dB.
+
 
 ## What did not work
 
